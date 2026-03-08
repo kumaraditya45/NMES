@@ -934,7 +934,7 @@ button,label{font-family:'Nunito',sans-serif;cursor:pointer}
       <div class="testi-card">
         <div class="t-quote">"</div>
         <div class="t-stars">★★★★★</div>
-        <div class="t-text">मेरे बेटे को यहाँ आकर बहुत फायदा हुआ। Spoken English में जबरदस्त सुधार आया। शिक्षक बहुत समर्पित हैं।</div>
+        <div class="t-text">मेरे बेटे को यहाँ आकर बहुत फायदा हुआ। Spoken English में जबरदस्त सुधार आया। शिक्षक बहुत समर्पित हैं </div>
         <div class="t-author"><div class="t-avatar">👩</div><div><div class="t-name">सुनीता देवी</div><div class="t-role">Mother of Class 5 Student</div></div></div>
       </div>
       <div class="testi-card">
@@ -946,7 +946,7 @@ button,label{font-family:'Nunito',sans-serif;cursor:pointer}
       <div class="testi-card">
         <div class="t-quote">"</div>
         <div class="t-stars">★★★★★</div>
-        <div class="t-text">पढ़ाई का माहौल बहुत अच्छा है। मेरी बेटी का आत्मविश्वास पहले से काफी बढ़ा है। बहुत अच्छा स्कूल है।</div>
+        <div class="t-text">पढ़ाई का माहौल बहुत अच्छा है। मेरी बेटी का आत्मविश्वास पहले से काफी बढ़ा है। बहुत अच्छा स्कूल है। आपलोग बिना किसी हिचकिचाहट के अपने बच्चो का नामांकन कराए </div>
         <div class="t-author"><div class="t-avatar">👩</div><div><div class="t-name">गीता कुमारी</div><div class="t-role">Mother of Class 3 Student</div></div></div>
       </div>
     </div>

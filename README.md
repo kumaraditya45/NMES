@@ -1,4 +1,4 @@
-ढ
+
 <html lang="hi">
 <head>
 <meta charset="UTF-8">
@@ -1167,7 +1167,7 @@ button,label{font-family:'Nunito',sans-serif;cursor:pointer}
         </a>
 
         <!-- WHATSAPP BUTTON -->
-        <a href="https://wa.me/919113788228?text=नमस्ते! मैं New Modern English School में प्रवेश, फीस और अन्य जानकारी के बारे में जानना चाहता/चाहती हूँ। कृपया सहायता करें।" target="_blank" style="display:block;text-decoration:none">
+        <a href="https://wa.me/919113788228?text=नमस्ते! मैं New Modern English School में प्रवेश,फीस और अन्य जानकारी के बारे में जानना चाहता/चाहती हूँ। कृपया सहायता करें।"target="_blank" style="display:block;text-decoration:none">
           <div class="ci-card" style="border-color:#25D366;background:#F0FFF5;cursor:pointer">
             <div class="ci-icon" style="background:#25D366">💬</div>
             <div>
